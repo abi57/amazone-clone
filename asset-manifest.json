@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.27e23334.css",
+    "main.js": "/react-gh-pages/static/js/main.3692f50d.js",
+    "static/js/787.0e50cc05.chunk.js": "/react-gh-pages/static/js/787.0e50cc05.chunk.js",
+    "static/media/pic3.jpg": "/react-gh-pages/static/media/pic3.10455e7255cf90100783.jpg",
+    "static/media/pic4.jpg": "/react-gh-pages/static/media/pic4.bcee394f6954bf0eeca4.jpg",
+    "static/media/pic1.jpg": "/react-gh-pages/static/media/pic1.51d70583586f6b27a865.jpg",
+    "static/media/pic2.jpg": "/react-gh-pages/static/media/pic2.ad9585fcf0a142380736.jpg",
+    "static/media/shopwatch.jpg": "/react-gh-pages/static/media/shopwatch.037aefc253992ab0ec1d.jpg",
+    "static/media/dress1.jpg": "/react-gh-pages/static/media/dress1.dfa64d890047a2699351.jpg",
+    "static/media/fitness1.jpg": "/react-gh-pages/static/media/fitness1.5901a2c972ae0994018b.jpg",
+    "static/media/newarrival1.jpg": "/react-gh-pages/static/media/newarrival1.bb8447bebcc2c72f5830.jpg",
+    "static/media/striplight.jpg": "/react-gh-pages/static/media/striplight.55960e916f831774c294.jpg",
+    "static/media/shoplaptop.jpg": "/react-gh-pages/static/media/shoplaptop.6d93ceff9ecb42ce84c0.jpg",
+    "static/media/beauty1.jpg": "/react-gh-pages/static/media/beauty1.2d1d73188dc4ebfccc4a.jpg",
+    "static/media/kindle1.jpg": "/react-gh-pages/static/media/kindle1.528004afedbffb53d5db.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.27e23334.css.map": "/react-gh-pages/static/css/main.27e23334.css.map",
+    "main.3692f50d.js.map": "/react-gh-pages/static/js/main.3692f50d.js.map",
+    "787.0e50cc05.chunk.js.map": "/react-gh-pages/static/js/787.0e50cc05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e23334.css",
+    "static/js/main.3692f50d.js"
+  ]
+}
